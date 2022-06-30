@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-//  declare reverse number
+//  declare reverse function
 int reverse()
 
 {
