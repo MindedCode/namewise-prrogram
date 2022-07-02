@@ -1,3 +1,4 @@
+//if else ladder 
 #include<stdio.h>
 
 // Declare main function
